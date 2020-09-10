@@ -62,7 +62,7 @@ I separated how I did ANMS into a separate file so those interested in that spec
 
 # TODO
 
-- ANMS is not optimized at all, I don't plan on coming back and optimizing it any time soon, so if anyone is interested in purposing a more optimized version totally go for it and let me know! 
+- ANMS is not optimized at all, I don't plan on coming back and optimizing it any time soon, so if anyone is interested in proposing a more optimized version, totally go for it and let me know! 
 
 # Contributions
 
