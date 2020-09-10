@@ -20,6 +20,8 @@ function img_plotter(original_image, corners, radius)
         % Draw this points neighbourhood radius in yellow.
         drawcircle('Center',[j,i], 'Color', [1,1,0], 'Radius', radius, 'InteractionsAllowed', 'none', 'FaceAlpha', 0.1);
         
+        % Dramatic work illusion, remove this if you are not a fan of
+        % theatrics.
         pause(0.1);
     end
 
